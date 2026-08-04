@@ -14,21 +14,11 @@ I believe great software is simple, maintainable, and built with purpose. Every 
 
 - 🌏 Based in Thailand
 - ✉️ Contact: game2015kk@gmail.com
-- 💼 Open to internships, freelance opportunities, and collaborations
 - 🚀 Currently exploring AI Engineering, Cloud Computing, DevOps, Infrastructure, and System Design
 
 ---
 
 ## 🚀 What I Do
-
-- 💻 Develop modern full-stack web applications
-- ⚙️ Design scalable backend systems and REST APIs
-- 🤖 Build AI-powered applications and intelligent workflows
-- ☁️ Deploy cloud-native applications
-- 🔄 Automate repetitive tasks using APIs and workflow automation
-- 📈 Optimize performance, scalability, and user experience
-
----
 
 ## ⚡ Tech Stack
 
@@ -60,32 +50,6 @@ I believe great software is simple, maintainable, and built with purpose. Every 
 
 <p>
 <img src="https://skillicons.dev/icons?i=gcp,docker,linux,git,github" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,raspberrypi" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Panupong-xD">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
 </p>
 
 ---
