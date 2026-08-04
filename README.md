@@ -2,7 +2,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 
 # Panupong Bunphat
 
-### Software Engineer • Full-Stack Developer • AI Builder
+### Computer Engineer
 
 > **Building software that solves real-world problems.**
 
