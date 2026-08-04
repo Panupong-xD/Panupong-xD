@@ -2,23 +2,17 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 
 # Panupong Bunphat
 
-### Computer Engineer
+### Computer Engineering Student
 
-> **Building software that solves real-world problems.**
+Computer Engineering student at Srinakharinwirot University (SWU), Thailand.
 
-Computer Engineering student at **Srinakharinwirot University (SWU), Thailand 🇹🇭** with a passion for designing reliable systems, developing modern web applications, and transforming ideas into products that people can actually use.
-
-I enjoy building full-stack applications, backend services, AI-powered solutions, and scalable cloud-based systems. Beyond writing code, I'm passionate about software architecture, automation, clean development practices, and continuously learning new technologies that help create better products.
-
-I believe great software is simple, maintainable, and built with purpose. Every project is an opportunity to solve problems, improve user experience, and become a better engineer.
+Interested in full-stack web development, backend systems, cloud technologies, and AI. I enjoy building practical software, learning new technologies, and contributing to projects that solve real-world problems.
 
 - 🌏 Based in Thailand
 - ✉️ Contact: game2015kk@gmail.com
 - 🚀 Currently exploring AI Engineering, Cloud Computing, DevOps, Infrastructure, and System Design
 
 ---
-
-## 🚀 What I Do
 
 ## ⚡ Tech Stack
 
