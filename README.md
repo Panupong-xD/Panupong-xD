@@ -2,9 +2,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 
 # Panupong Bunphat
 
-### Computer Engineering Student
-
-Computer Engineering student at Srinakharinwirot University (SWU), Thailand.
+### Computer Engineering Student at Srinakharinwirot University (SWU), Thailand.
 
 Interested in full-stack web development, backend systems, cloud technologies, and AI. I enjoy building practical software, learning new technologies, and contributing to projects that solve real-world problems.
 
