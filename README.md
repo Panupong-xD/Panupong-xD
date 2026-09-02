@@ -1,6 +1,6 @@
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
 
-# Panupong Bunphat
+
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Panupong Bunphat
 
 ### Computer Engineering Student at Srinakharinwirot University (SWU), Thailand.
 
@@ -23,19 +23,13 @@ Interested in full-stack web development, backend systems, cloud technologies, a
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs" />
 </p>
 
 ### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ### Cloud & DevOps
