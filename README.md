@@ -6,7 +6,7 @@
 Interested in full-stack web development, backend systems, cloud technologies, and AI. I enjoy building practical software, learning new technologies, and contributing to projects that solve real-world problems.
 
 - 🌏 Based in Thailand
-- ✉️ Contact: game2015kk@gmail.com
+- ✉️ Contact: game.2015kk@gmail.com
 - 🚀 Currently exploring AI Engineering, Cloud Computing, DevOps, Infrastructure, and System Design
 
 ---
